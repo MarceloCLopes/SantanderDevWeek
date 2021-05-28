@@ -12,6 +12,7 @@
         <entry key="app/src/main/res/drawable/ic_savings_24dp.xml" value="0.19895833333333332" />
         <entry key="app/src/main/res/drawable/ic_update_24.xml" value="0.3494791666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3328125" />
+        <entry key="app/src/main/res/layout/toolbar_title_layout.xml" value="0.3333333333333333" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.3333333333333333" />
       </map>
     </option>

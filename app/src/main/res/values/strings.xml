@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">SantanderDevWeek</string>
+    <string name="app_name">Santander</string>
+    <string name="agency">Ag 2030</string>
+    <string name="account">Cc 02051976-5</string>
+    <string name="balance_available">Saldo disponível</string>
+    <string name="user">Olá, Marcelo</string>
+    <string name="text_balance">R$ 1.324,65</string>
+    <string name="text_balance_limit">Saldo + limite</string>
+    <string name="text_value_balance">R$ 2.324,65</string>
+    <string name="text_extract">Ver extrato</string>
+    <string name="text_number_final_card">0033</string>
+    <string name="text_final_card">Cartão final</string>
+    <string name="text_recharge">Recarga</string>
+    <string name="text_transfer">Transferir</string>
 </resources>
