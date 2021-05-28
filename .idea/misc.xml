@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_credit_card_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_expand_less_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_expand_more_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_notifications_none_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_payments_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_phone_android_24.xml" value="0.3494791666666667" />
+        <entry key="app/src/main/res/drawable/ic_savings_24dp.xml" value="0.19895833333333332" />
+        <entry key="app/src/main/res/drawable/ic_update_24.xml" value="0.3494791666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3328125" />
+        <entry key="app/src/main/res/menu/main_menu.xml" value="0.3333333333333333" />
       </map>
     </option>
   </component>
